@@ -95,12 +95,12 @@ exports.UmurXReg = () =>{
 	return`Umur lu tua amat, bukannya mati malah main bot awokawok`
 	}
 exports.firstChat = (a, b, c) =>{
-	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?\n\nKetik .allmenu untuk menampilkan menu\n\n\nNote : tombol di bawah tidak berfungsi!`
+	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?\n\n\nNote : tombol di bawah tidak berfungsi?  ketik .allmenu`
 	}
 exports.StartAbsen = () =>{
 	return`Mulai Absen`
 	}
-exports.AddstikOk = (q, a, b, prefix, command) =>{
+exports.AddstikOk = (q, a, b, prefix, command) =>
 	return`Sukses Menambahkan ${q} Ke Dalam Database ${a}\n\nCek dengan cara ${prefix}${b}`
 	}
 	
