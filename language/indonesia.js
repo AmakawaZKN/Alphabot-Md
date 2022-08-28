@@ -95,7 +95,7 @@ exports.UmurXReg = () =>{
 	return`Umur lu tua amat, bukannya mati malah main bot awokawok`
 	}
 exports.firstChat = (a, b, c) =>{
-	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?`
+	return`Selamat ${a} ${b} 🤗, saya adalah ${c} yaitu bot whatsapp. Ada yang bisa ${c} bantu?\n\nKetik .allmenu untuk menampilkan menu\n\n\nNote : tombol di bawah tidak berfungsi!`
 	}
 exports.StartAbsen = () =>{
 	return`Mulai Absen`
@@ -721,7 +721,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Bot :*
+*📚 List-Menu Bot Amakawa Zykuan:*
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
