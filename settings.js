@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "AMAKAWA ZYKUAN" //namabot kalian
+global.botname = "Zyy" //namabot kalian
 global.ownername= "ᴹᴿ᭄ ZYKUAN" //nama kalian
-global.myweb ="https://www.instagram.com/zykuan.144/" //bebas asal jan hapus
+global.myweb ="https://www.instagram.com/zykuan.144p/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/-" //bebas asal jan hapus
 global.myweb2 = "https://saweria.co/Zykuan" //bebas
 global.email = "AmkawaZykuan@gmail.com" //bebas
@@ -43,7 +43,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/2304a99f5d89b106481b0.mp4'
 global.packname = 'You Know Zy?' //sticker wm ubah
-global.author = 'Di Buat Oleh Zykuan' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh Zyy' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -117,17 +117,17 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'Yeayy succsess bro!',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+    sukses: 'Berhasil tuh, lain kali jangan manja',
+    admin: 'Lu bukan admin ngent',
+    botAdmin: 'Jadiin gw admin dulu asu',
+    owner: 'Luu bukan owner gw anjc',
+    group: 'Khusus group, kalau pake di privat berarti lu tolol',
+    private: 'Khusus private, kalau pake di group berarti lu tolol',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
+    errtoimg: 'Ga support stiker gif jinc',
+    wait: 'Sabar ya deck, gasabar pake bot lain aja sana',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Welcome beban @user Di Group @subject Jangan Lupa Baca Rules ya kont @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
